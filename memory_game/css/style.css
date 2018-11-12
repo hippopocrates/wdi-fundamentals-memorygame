@@ -76,6 +76,10 @@ footer {
 	margin: 40px 0 0 0;
 }
 
+button {
+	margin-top: 25px;
+}
+
 .copyright {
 	font-family: "Raleway", sans-serif;
 	float: left;
